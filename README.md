@@ -136,3 +136,6 @@ Mediator pattern:
 
 ![uml](uml.png)
 [link](https://lucid.app/lucidchart/02aeacfa-73e2-4bc2-a87f-310a6414b53c/edit?viewport_loc=-2673%2C-893%2C3636%2C2004%2C0_0&invitationId=inv_36eabc03-14f7-4693-8b46-62f7d4e192b0)
+
+### Video:
+https://youtu.be/l6uKzV7yZzM?si=uGQzKgZeOYiF7MkT
