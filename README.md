@@ -123,11 +123,11 @@ Entity(Composition, properties, etc)
 
 ## Difficulty
 
-8/18
+8/10
 
 ## Score
 
-9/18
+9/10
 
 ### References:
 Mediator pattern:
